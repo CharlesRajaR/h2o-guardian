@@ -1,3 +1,42 @@
+# 🚰 Water Monitoring System - React Native App
+
+This is a **Real-Time Water Monitoring App** built using **React Native (Expo)** and **Firebase Realtime Database**.
+
+The app displays live sensor data:
+
+- 🌊 Water Level
+- ⚗️ pH Value
+- 🫧 Turbidity
+
+Data updates automatically from Firebase when the water sensor data changes.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React Native (Expo)
+- 🗄️ Firebase Realtime Database
+- React Hooks (useEffect, useState)
+
+---
+
+## 📱 Features
+
+✅ Live display of sensor data (Water Level, pH, Turbidity)  
+✅ Real-time updates — no refresh required  
+✅ Clean and responsive UI  
+✅ Firebase integration
+
+---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone this repo
+
+````bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -8,7 +47,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npm install
-   ```
+````
 
 2. Start the app
 

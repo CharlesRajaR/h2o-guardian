@@ -28,6 +28,9 @@ Data updates automatically from Firebase when the water sensor data changes.
 ✅ Firebase integration
 
 ---
+## Images
+
+![HomePage](./assets/images/localhost_8081_(iPhone SE).png)
 
 ## 🚀 How to Run Locally
 
